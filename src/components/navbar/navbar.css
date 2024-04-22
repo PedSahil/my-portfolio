@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    
+    height: 68px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+}
+.title{
+    font-family: 'Jura', sans-serif;
+    font-size:2rem;
+    font-weight: 600;
+    color: var(--font-col);
+    /* border: 1px solid red; */
+}
+.links{
+    height: auto;
+    width: 40%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.links a{
+    position: relative;
+    margin: 0;
+    letter-spacing: .5mm;
+    font-family: 'Jura', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--font-col);
+    /* border-bottom: 2px solid black; */
+}
+.links a:hover{
+    color: #e2b900;
+}
+
+.dark{
+    height: 2.5rem;
+    width: 2.5rem;
+    cursor: pointer;
+}
+@media only screen and (max-width: 576px){
+    .links a{
+        display: none;
+    }
+}

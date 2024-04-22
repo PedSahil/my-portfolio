@@ -1,0 +1,13 @@
+.footer{
+    height: 7rem;
+    width:100vw;
+    background-color: var(--font-col);
+    font-family: 'Inter', sans-serif;
+    font-size: large;
+    color: var(--back-ground);
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}

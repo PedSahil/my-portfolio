@@ -1,0 +1,15 @@
+
+.desc{
+    padding: 0;
+}
+
+
+@media (max-width: 464px) {
+    .crad{
+        width: 10rem;
+        height: 14rem;
+    }
+    .desc{
+        display: none;
+    }
+}

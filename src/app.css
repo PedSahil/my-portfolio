@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Jura:wght@300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+#width{
+    padding: 0 10rem;
+    margin: 0;
+    box-sizing: border-box;
+    background:var(--back-ground);
+    font-family: "Jura", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+}
+
+.darkMode{
+    --font-col:#d3d3d3;
+    --back-ground:#1a1a1a;
+}
+.lightMode{
+    --font-col:#474747;
+    --back-ground:#d3d3d3;
+}
+
+/* * common codes */
+
+.about{
+    margin:10rem 0;
+    height: auto;
+    width: 90%;
+    /* border: 1px solid red; */
+    display: flex;
+    /* gap:3rem; */
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    align-items: start ;
+}
+.aboutme{
+    margin-top:40px ;
+    height: auto;
+    width: 1.4em;
+}
+.whoiam{
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid red;   */
+}
+.whoiam1{
+    padding: 20px;
+    font-family: 'Jura', sans-serif;
+    color: var(--font-col);
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 1.3cm;
+}
+.myself{
+    padding: 0px 20px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    color: var(--font-col);
+    text-align: justify;
+}
+
+/* * Media Queries */
+@media only screen and (max-width: 576px){
+    .about{
+        margin: 0;
+        width: 95vw;
+        flex-direction: column;
+        gap:3rem;
+
+    }
+    #width{
+        padding: 0;
+    }
+}

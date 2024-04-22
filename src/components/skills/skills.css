@@ -1,0 +1,15 @@
+
+.block2{
+    height:60%;
+    width: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.block2>img{
+    margin: 20px;
+    height: 4rem;
+    width: 4rem;
+    /* border: 1px solid red; */
+}

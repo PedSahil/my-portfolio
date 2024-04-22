@@ -1,0 +1,45 @@
+
+.gallery  a{
+    margin: 0;
+    padding:0;
+    height: max-content;
+    width: 100%;
+}
+.gallery{
+    padding: 1rem;
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-auto-flow: dense; 
+    grid-gap: 6px;
+    align-items: baseline;
+    justify-content: start;
+    align-content: center;
+    justify-items: end;
+}
+.img{
+    border-radius: 8px;
+    border: 2px solid #e2b900;
+}
+.imag1{
+    height: auto;
+    width: 11rem;
+}
+.imag2{
+    height: 15rem;
+    width: 11rem;
+}
+.imag3{
+    height: 9rem;
+    width: 11rem;
+}
+.imag4{
+    height: 9rem;
+    width: 11rem;
+}
+.imag5{
+    height: 9rem;
+    width: 11rem;
+}
