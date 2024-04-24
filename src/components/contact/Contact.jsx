@@ -11,8 +11,8 @@ const Contact = () => {
           Contact Me
         </aside>
         <aside className="myself">
-          Lorem ipsum dolor sit amet, . Est qui mollitia illum magni natus nemo
-          ipsam vero saepe voluptas magnam?
+          Let's join forces to elevate your project to new heights. Together, we
+          can innovate and create something truly remarkable.
         </aside>
       </section>
       <form

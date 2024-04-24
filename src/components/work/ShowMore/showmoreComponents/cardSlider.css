@@ -2,12 +2,16 @@
 .desc{
     padding: 0;
 }
+.crad{
+    cursor: pointer;
+    margin-right: 5px;
+}
 
 
 @media (max-width: 464px) {
     .crad{
-        width: 10rem;
-        height: 14rem;
+        width: 5rem;
+        height: 12rem;
     }
     .desc{
         display: none;

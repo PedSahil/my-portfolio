@@ -2,8 +2,7 @@
 
 .c_card{
     background-color: rgb(188, 188, 188);
+    cursor: pointer;
    
 }
-.c_card:hover{
-   
-}
+

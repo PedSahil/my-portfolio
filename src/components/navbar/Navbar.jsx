@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <div className="nav">
       <p className="title">Portfolio.</p>
-      <div className="links">
+      {/* <div className="links">
         <a className="link" href="#about">
           About.
         </a>
@@ -24,7 +24,7 @@ const Navbar = () => {
         <a className="link" href="#contact">
           Contact.
         </a>
-      </div>
+      </div> */}
       <span>
         <img
           onClick={toggleDarkMode}

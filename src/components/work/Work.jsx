@@ -59,7 +59,7 @@ const Work = () => {
           alt=""
           className="img imag5"
         />
-        <Link to="/showmore">Show more</Link>
+        <Link className="showMore" to="/showmore">Show more...</Link>
       </div>
     </div>
   );

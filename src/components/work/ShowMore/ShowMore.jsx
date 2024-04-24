@@ -4,12 +4,15 @@ import CardSlider from "./showmoreComponents/CardSlider";
 import ProjectsGrid from "./showmoreComponents/ProjectsGrid";
 import Footer from "../../footer/Footer"
 import "./showmore.css"
+import Navbar from "../../navbar/Navbar";
+
 
 
 const ShowMore = () => {
   return (
     <div className="shomore">
       <Container-fluid>
+      <p className="title">Portfolio.</p>
       {/* <Navbar/> */}
       <Carosel />
       <br />
