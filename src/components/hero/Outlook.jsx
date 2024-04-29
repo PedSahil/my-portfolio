@@ -1,15 +1,20 @@
 import React from 'react'
 import "./Outlook.css"
+import insta from "/src/assets/insta.png"
+import banner from '/src/assets/banner.svg'
+import scroll from "/src/assets/scroll.png"
+import git from "/src/assets/git.png"
+import linkedin from "/src/assets/linkedin.png"
 const Outlook = () => {
   return (
     <div className='hero'>
       <div className="otherlinks">
-            <img src="/src/assets/insta.png" alt=""/>
-            <img src="/src/assets/git.png" alt=""/>
-            <img src="/src/assets/linkedin.png" alt=""/>
+            <img src={insta} alt=""/>
+            <img src={git} alt=""/>
+            <img src={linkedin} alt=""/>
       </div>
-      <img src='/src/assets/banner.svg' className="banner"></img>
-      <img src="/src/assets/scroll.png" alt="" />
+      <img src= {banner}></img>
+      <img src={scroll} alt="" />
     </div>
   )
 }

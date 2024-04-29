@@ -1,3 +1,8 @@
 .shomore{
     background-color: #d3d3d3;
+    padding-left: 10px;
+}
+.subtitle{
+    font-family: "Jura", sans-serif;
+    font-size: 1.8rem;
 }

@@ -50,6 +50,6 @@
 
 .showMore{
     text-decoration: none;
-    color: black;
+    color:var(--font-col);
     font-size: 1.2rem;
 }

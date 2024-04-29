@@ -1,5 +1,7 @@
 import React from "react";
 import "./navbar.css";
+import moon from  '/src/assets/moon.png'
+import sun from '/src/assets/sun.png'
 import { useDarkMode } from "../contexts/DarkModeContext";
 
 const Navbar = () => {
@@ -29,7 +31,7 @@ const Navbar = () => {
         <img
           onClick={toggleDarkMode}
           className="dark"
-          src={darkMode?'/src/assets/moon.png':'/src/assets/sun.png'}
+          src={darkMode?{moon}:{sun}}
           alt=""
         />
       </span>

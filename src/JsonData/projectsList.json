@@ -8,151 +8,151 @@
   {
     "id": 2,
     "title": "BimbiFood",
-    "img": "/public/projects-img/bimbifood.svg",
+    "img": "/projects-img/bimbifood.svg",
     "desc": "Bimbifood presents a delightful culinary webpage, meticulously crafted using the Chakra UI framework."
   },
   {
     "id": 3,
     "title": "Coffee Cookies",
-    "img": "/public/projects-img/biscuit-tea.svg",
+    "img": "/projects-img/biscuit-tea.svg",
     "desc": " A 3D modelling masterpiece featuring a meticulously crafted coffee cup paired with delectable cookies."
   },
   {
     "id": 4,
     "title": "Digital Clock",
-    "img":  "/public/projects-img/digital-clock.svg",
+    "img":  "/projects-img/digital-clock.svg",
     "desc": "Experience time in a new light with our digital clock webpage. Seamlessly blending HTML, CSS, and JavaScript."
   },
   {
     "id": 5,
     "title": "Drag and Drop",
-    "img":  "/public/projects-img/dragNdrop.svg",
+    "img":  "/projects-img/dragNdrop.svg",
     "desc": "Experience seamless interaction with our drag-and-drop webpage, meticulously crafted using HTML, CSS, and JavaScript."
   },
   {
     "id": 6,
     "title": "Fit-Club",
-    "img":  "/public/projects-img/fitclub.svg",
+    "img":  "/projects-img/fitclub.svg",
     "desc": "Embark on your fitness journey with our dynamic React-powered webpage."
   },
   {
     "id": 7,
     "title": "Glass-Cup",
-    "img":  "/public/projects-img/glass-cup.svg",
+    "img":  "/projects-img/glass-cup.svg",
     "desc": " 3D modelling of transparent glass cup using Blender"
   },
   {
     "id": 8,
     "title": "Invitation",
-    "img":  "/public/projects-img/gruha-prasvesham.svg",
+    "img":  "/projects-img/gruha-prasvesham.svg",
     "desc": "Simple invitation card design in Figma."
   },
   {
     "id": 9,
     "title": "Template Design",
-    "img":  "/public/projects-img/html-css-template.svg",
+    "img":  "/projects-img/html-css-template.svg",
     "desc": "A html template webpage (MiniProject)"
   },
   {
     "id": 10,
     "title": "Lopoly Island",
-    "img":  "/public/projects-img/island.svg",
+    "img":  "/projects-img/island.svg",
     "desc": "A 3D model of an lopoly island, Blender."
   },
   {
     "id":11,
     "title": "Khavu App Design",
-    "img":  "/public/projects-img/Khavu.svg",
+    "img":  "/projects-img/Khavu.svg",
     "desc": "A Figma design template of Android App Khavu,with added buttons and different pages"
   },
   {
     "id": 12,
     "title": "Recipe page Design",
-    "img":  "/public/projects-img/kimchi.svg",
+    "img":  "/projects-img/kimchi.svg",
     "desc": "An android view design of Recipe page."
   },
   {
     "id": 13,
     "title": "Luscious",
-    "img":  "/public/projects-img/luscious.svg",
+    "img":  "/projects-img/luscious.svg",
     "desc": "Delicious food order app with interactive animations in figma."
   },
   {
     "id": 14,
     "title": "Perfume",
-    "img":  "/public/projects-img/perfume.svg",
+    "img":  "/projects-img/perfume.svg",
     "desc": "A 3D modelling of a perfume container with matte texture."
   },
   {
     "id": 15,
     "title": "Lopoly Mushroom",
-    "img":  "/public/projects-img/mushrooms.svg",
+    "img":  "/projects-img/mushrooms.svg",
     "desc": "A simple modelling of lopoly mushroom with, blooming dotts."
   },
   {
     "id": 16,
     "title": "NewYear",
-    "img":  "/public/projects-img/newYear.svg",
+    "img":  "/projects-img/newYear.svg",
     "desc": "An invitation for a new year event, design in figma."
   },
   {
     "id": 17,
     "title": "App Prototype-Design",
-    "img": "/public/projects-img/prototype.svg",
+    "img": "/projects-img/prototype.svg",
     "desc": "An pure Android application prototype design in figma"
   },
   {
     "id": 18,
     "title": "Red-Heart",
-    "img":  "/public/projects-img/red-heart.svg",
+    "img":  "/projects-img/red-heart.svg",
     "desc": "A 3D glooming red heart model in Blender"
   },
   {
     "id": 19,
     "title": "Portfolio",
-    "img": "/public/projects-img/resume-1.svg",
+    "img": "/projects-img/resume-1.svg",
     "desc": "A portfolio implemented using pure html and vanilla css."
   },
   {
     "id": 20,
     "title": "Portfolio Re-Design",
-    "img":  "/public/projects-img/resume-2.svg",
+    "img":  "/projects-img/resume-2.svg",
     "desc": "A portfolio redesigned using vite React, design inspired from Johndoe template"
   },
   {
     "id": 21,
     "title": "Scoop And Smile",
-    "img":  "/public/projects-img/scoopNsmile.svg",
+    "img":  "/projects-img/scoopNsmile.svg",
     "desc": "A Figma design template for an ice-cream parlour named Scoop N Smile"
   },
   {
     "id": 22,
     "title": "3D Spider",
-    "img":  "/public/projects-img/spider.svg",
+    "img":  "/projects-img/spider.svg",
     "desc": "A 3D model of a technical spider which glows a light."
   },
   {
     "id": 23,
     "title": "Stone Paper Game",
-    "img": "/public/projects-img/stonepprscissors.svg",
+    "img": "/projects-img/stonepprscissors.svg",
     "desc": "A Javascript project game, which is played between a human and a computer."
   },
   {
     "id": 24,
     "title": "TIC-TAC-TOE",
-    "img":  "/public/projects-img/tictactoe.svg",
+    "img":  "/projects-img/tictactoe.svg",
     "desc": "A Javascript project which is two player game."
   },
   {
     "id": 25,
     "title": "3D Villa Modelling",
-    "img":  "/public/projects-img/villa.svg",
+    "img":  "/projects-img/villa.svg",
     "desc": "3D model of an holiday villa at a river side Deck."
   },
   {
     "id": 26,
     "title": "Witch-House",
-    "img":  "/public/projects-img/witch-house.svg",
+    "img":  "/projects-img/witch-house.svg",
     "desc": "A 3d model of Haunted house simulated using Blender."
   }
 ]

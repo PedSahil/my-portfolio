@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import "./cardSlider.css";
 
 const CardSlider = () => {
+
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -66,6 +67,7 @@ const CardSlider = () => {
             style={{ width: "16rem" }}
           >
             <Card.Img variant="top" src={item.img} />
+            {console.log(item.img)}
             <Card.Body>
               <Card.Title>{item.title}</Card.Title>
               <Card.Text className="desc">{item.desc}</Card.Text>

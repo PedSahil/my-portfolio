@@ -3,6 +3,8 @@ import { useState, useEffect } from "react";
 import { Card, Row } from "react-bootstrap";
 import style from "./projectsGrid.module.css";
 
+import bedroom from "/projects-img/bedroom.svg"
+
 const ProjectsGrid = () => {
   const [data, setData] = useState([]);
 

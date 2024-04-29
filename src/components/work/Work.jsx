@@ -1,6 +1,12 @@
 import React from "react";
 import "./Work.css";
 import { Link } from "react-router-dom";
+import scoopNsmilefront from "/src/thumbnails/scopnsmilefront-min.jpg"
+import luciousthumbnail from "/src/thumbnails/luscious-thumbnail.jpg"
+import carouselImg4 from "/src/thumbnails/carousel-img-4.jpg"
+import grihapravesh from "/src/thumbnails/GrihaPravesh-min.jpg"
+import johnDoe from "/src/thumbnails/johnDoePort-min.jpg"
+import firstPortfolio from "/src/thumbnails/firstPortfolio-min.jpg"
 
 const Work = () => {
   const figmaLink =
@@ -25,37 +31,37 @@ const Work = () => {
       <div className="gallery">
         <img
           onClick={handleClick}
-          src="/src/thumbnails/scopnsmilefront-min.jpg"
+          src={scoopNsmilefront}
           alt=""
           className="img imag1"
         />
         <img
           onClick={handleClick}
-          src="/src/thumbnails/luscious-thumbnail.jpg"
+          src={luciousthumbnail}
           alt=""
           className="img imag2"
         />
         <img
           onClick={handleClick2}
-          src="/src/thumbnails/carousel-img-4.jpg"
+          src={carouselImg4}
           alt=""
           className="img imag3"
         />
         <img
           onClick={handleClick}
-          src="/src/thumbnails/GrihaPravesh-min.jpg"
+          src={grihapravesh}
           alt=""
           className="img imag4"
         />
         <img
           onClick={handleClick2}
-          src="/src/thumbnails/johnDoePort-min.jpg"
+          src={johnDoe}
           alt=""
           className="img imag5"
         />
         <img
           onClick={handleClick2}
-          src="/src/thumbnails/firstPortfolio-min.jpg"
+          src={firstPortfolio}
           alt=""
           className="img imag5"
         />

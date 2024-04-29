@@ -16,11 +16,11 @@ const ShowMore = () => {
       {/* <Navbar/> */}
       <Carosel />
       <br />
-      <h2>Featured</h2>
+      <h2 className="subtitle">Featured</h2>
       <br />
       <CardSlider />
       <br />
-      <h2>Projects</h2>
+      <h2 className="subtitle">Projects</h2>
       <br />
       <ProjectsGrid/>
       <Footer/>

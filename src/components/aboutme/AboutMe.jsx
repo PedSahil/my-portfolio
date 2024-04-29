@@ -29,7 +29,7 @@ const AboutMe = () => {
         <br />
         <br />
         <br />
-        <a href="/src/assets/Sahil Pednekar .pdf" className="download" download>
+        <a href="/src/assets/Sahil Pednekar.pdf" className="download" download>
           Download CV
         </a>
       </section>
