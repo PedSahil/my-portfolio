@@ -1,5 +1,5 @@
 
-.desc{
+.des{
     height: auto;
     width: 100%;
     padding: 1rem;
@@ -17,6 +17,7 @@
     border: 1px solid var(--font-col);
     color: var(--font-col);
     letter-spacing:1px;
+    background-color: transparent;
     padding: 10px;
     border-radius: 4px;
     font-family: 'Jura', sans-serif;

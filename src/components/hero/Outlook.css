@@ -27,6 +27,7 @@
 .otherlinks>img{
     height: 2rem;
     width: 2rem;
+    cursor: pointer;
 }
 @media only screen and (max-width: 576px){
     .hero>:nth-child(2){

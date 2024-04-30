@@ -31,7 +31,7 @@ const Navbar = () => {
         <img
           onClick={toggleDarkMode}
           className="dark"
-          src={darkMode?{moon}:{sun}}
+          src={darkMode?moon:sun}
           alt=""
         />
       </span>

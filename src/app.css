@@ -67,9 +67,9 @@ body::-webkit-scrollbar{
 @media only screen and (max-width: 576px){
     .about{
         margin: 0;
-        width: 95vw;
+        width: 98vw;
         flex-direction: column;
-        gap:3rem;
+        gap:2rem;
 
     }
     #width{

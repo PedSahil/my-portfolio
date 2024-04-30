@@ -5,4 +5,20 @@
 .subtitle{
     font-family: "Jura", sans-serif;
     font-size: 1.8rem;
+    font-weight: 700;
+}
+
+@media only screen and (max-width:480px) {
+    .subtitle{
+        font-size: 1.3rem;
+    }
+    .carousel-control-prev{
+        display: none;
+    }
+    .carousel-control-next{
+        display: none;
+    }
+    .caption{
+        display: none;
+    }
 }

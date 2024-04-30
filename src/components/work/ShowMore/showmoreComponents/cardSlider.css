@@ -8,9 +8,9 @@
 }
 
 
-@media (max-width: 464px) {
+@media only screen and (max-width:480px)  {
     .crad{
-        width: 5rem;
+        width: 40px;
         height: 12rem;
     }
     .desc{
