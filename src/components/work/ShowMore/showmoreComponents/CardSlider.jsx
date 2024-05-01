@@ -10,6 +10,7 @@ import resume1 from  "/projects-img/resume-1.svg"
 import resume2 from "/projects-img/resume-2.svg"
 import luscious from "/projects-img/luscious.svg"
 import fitclub from "/projects-img/fitclub.svg"
+import portpro from "/projects-img/portproject.svg"
 
 const data = [
   {
@@ -41,6 +42,12 @@ const data = [
     title: "Fitclub",
     img: fitclub,
     desc: "A React js website for a Fitness-Club",
+  },
+  {
+    id: 6,
+    title: "Portfolio-Project",
+    img: portpro,
+    desc: "A React js website for a Portfolio with scss",
   },
 ];
 

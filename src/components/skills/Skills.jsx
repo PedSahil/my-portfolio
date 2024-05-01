@@ -8,6 +8,8 @@ import sql from "/src/assets/sql.png"
 import figma from "/src/assets/figma.png"
 import blender from "/src/assets/blender.png"
 import git1 from "/src/assets/git1.png"
+import react from "/src/assets/reacticon.png"
+import sass from "/src/assets/sassicon.png"
 
 const Skills = () => {
   return (
@@ -30,6 +32,8 @@ const Skills = () => {
         <img src={figma} alt="" />
         <img src={blender} alt="" />
         <img src={git1} alt="" />
+        <img src={react} alt="" />
+        <img src={sass} alt="" />
       </div>
     </div>
   );

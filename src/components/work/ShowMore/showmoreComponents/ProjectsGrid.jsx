@@ -29,6 +29,7 @@ import stonepaper from "/projects-img/stonepprscissors.svg";
 import tictactoe from "/projects-img/tictactoe.svg";
 import villa from "/projects-img/villa.svg";
 import witch from "/projects-img/witch-house.svg";
+import portpro from "/projects-img/portproject.svg"
 
 const data = [
   {
@@ -186,6 +187,12 @@ const data = [
     title: "Witch-House",
     img: witch,
     desc: "A 3d model of Haunted house simulated using Blender.",
+  },
+  {
+    id: 27,
+    title: "Portfolio-Project",
+    img: portpro,
+    desc: "A React js website for a Portfolio with scss",
   },
 ];
 

@@ -6,17 +6,9 @@ const AboutMe = () => {
 
   const handleClick=()=>{
      // URL to your PDF file
-     const pdfUrl = "src/assets/sahil_pednekar.pdf";
+     const pdfUrl = "https://drive.google.com/file/d/1M_EUhnbIxLH-mQ29O1fhzZme99imsic0/view?usp=drive_link";
     
-     // Create an anchor element
-     const link = document.createElement('a');
-     link.href = pdfUrl;
-     link.download = 'Sahil_Pednekar.pdf'; // Name of the downloaded file
-     
-     // Append anchor to body and trigger click event
-     document.body.appendChild(link);
-     link.click();
-     document.body.removeChild(link);
+     window.open(pdfUrl, '_blank');
   }
   return (
     <div className="about">
